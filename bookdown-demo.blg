@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: bookdown-demo.aux
+The style file: alpha.bst
+Database file #1: book.bib
+Warning--empty journal in malte
+You've used 5 entries,
+            2543 wiz_defined-function locations,
+            592 strings with 5438 characters,
+and the built_in function-call counts, 2441 in all, are:
+= -- 254
+> -- 110
+< -- 5
++ -- 38
+- -- 38
+* -- 162
+:= -- 386
+add.period$ -- 18
+call.type$ -- 5
+change.case$ -- 35
+chr.to.int$ -- 5
+cite$ -- 6
+duplicate$ -- 103
+empty$ -- 173
+format.name$ -- 43
+if$ -- 524
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 29
+num.names$ -- 15
+pop$ -- 40
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 91
+stack$ -- 0
+substring$ -- 134
+swap$ -- 31
+text.length$ -- 5
+text.prefix$ -- 2
+top$ -- 0
+type$ -- 40
+warning$ -- 1
+while$ -- 22
+width$ -- 7
+write$ -- 73
+(There was 1 warning)
